@@ -22,7 +22,7 @@ A detailed description of the methodology, experiments, and results is available
 
 ### 🗂️ Data
 Contains datasets used for training and evaluation:
-- Raw and preprocessed text datф  
+- Raw and preprocessed text data  
 - Train/test splits  
 - Auxiliary metadata (if applicable)
 
