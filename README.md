@@ -8,6 +8,9 @@ This repository contains an end-to-end pipeline for solving a **multilabel class
 
 A detailed description of the methodology, experiments, and results is available in the [`report.pdf`](report.pdf).
 
+Presentation:
+https://docs.google.com/presentation/d/1z0fV5F4LUVvBRFCLtM6Kxm4ElCsazpxa8LGEKpGG4dE/edit?usp=sharing
+
 ---
 
 ## 🚀 Technologies & Tools
